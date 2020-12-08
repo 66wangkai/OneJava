@@ -1,4 +1,4 @@
-package com.Sun.java.day1;
+package com.sun.java.day1;
 
 public class Rect {
 
