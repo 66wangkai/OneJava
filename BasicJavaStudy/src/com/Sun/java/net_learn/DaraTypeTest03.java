@@ -1,4 +1,4 @@
-package com.Sun.java.net_learn;
+package com.sun.java.net_learn;
 
 public class DaraTypeTest03 {
     public static void main(String[] args){
